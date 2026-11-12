@@ -1,0 +1,10 @@
+# Compiled Java files
+*.class
+out/
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
